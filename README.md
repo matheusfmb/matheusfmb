@@ -1,5 +1,5 @@
 ### Olá, Eu sou Matheus Felipe
-
+<div align='center'>
 <div align="center">
   <a href="https://github.com/matheusfmb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfmb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
   
  ##
  <h2>Tecnologias</h2>
-<div align"center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img alt="Logo Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="Logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="Logo Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -24,3 +24,4 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+  </div>
