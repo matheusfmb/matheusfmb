@@ -13,7 +13,7 @@
   <img alt="Logo Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="Logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img alt="Logo MySQL" height="30" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
-  <img alt="" height="30" width="50" src=" https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 </div>
 
   
