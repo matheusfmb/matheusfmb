@@ -3,8 +3,9 @@
 <h2>Olá, sou Matheus! 👋</h2>
 
 <div align='left'>
+  <p>Full-Stack Developer</p>
 <p>Estudante de Análise e Desenvolvimento de Sistemas - IFPE.</p>
-  <p>Atualmente estudando Spring Framework</p>
+<p>Atualmente estudando Spring Framework</p>
 </div>
 
 <h2>Tecnologias</h2>
