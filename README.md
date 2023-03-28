@@ -3,7 +3,7 @@
 <h2>Olá, sou Matheus! 👋</h2>
 
 <div align='left'>
-  <p>Full-Stack Developer</p>
+<p> Back-End Developer. futuramente Full-Stack Developer😅</p>
 <p>Estudante de Análise e Desenvolvimento de Sistemas - IFPE.</p>
 <p>Atualmente estudando Spring Framework</p>
 </div>
