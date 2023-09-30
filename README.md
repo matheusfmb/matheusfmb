@@ -8,7 +8,7 @@
 
 <h2>Tecnologias</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,java,python,eclipse,mysql,pr,git,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,spring,java,python,eclipse,mysql,pr,git,vscode&theme=dark)](https://skillicons.dev)
   
   <h2> Contatos </h2>
   <div> 
