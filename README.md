@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=matheusfmb&hide_border=true&show_icons=true&count_private=true&theme=radical"></td>
-    <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfmb&hide_border=true&layout=compact&theme=radical"></td>
+
   </tr>
   <tr>
     <td height='200px' align='center'><img height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfmb&hide_border=true&layout=compact&theme=radical"></td>
