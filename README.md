@@ -3,8 +3,8 @@
 <h2>Olá, sou Matheus! 👋</h2>
 
 <div align='left'>
-<p> Estagiário de Engenharia de Software na TatoDesk <p>
-<p>Estudante de Análise e Desenvolvimento de Sistemas - IFPE.</p>
+<p> Engenhario de Software na TatoDesk <p>
+<p> Formado em Análise e Desenvolvimento de Sistemas - IFPE.</p>
 </div>
 
 <h2>Tecnologias</h2>
