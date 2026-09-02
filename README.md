@@ -3,8 +3,12 @@
 <h2>Olá, sou Matheus! 👋</h2>
 
 <div align='left'>
-<p> Engenheiro de Software na TatoDesk <p>
+<p> Engenheiro de Software FullStack <p>
 <p> Formado em Análise e Desenvolvimento de Sistemas - IFPE.</p>
+
+  <p>Engenheiro de software com foco em Node.js, TypeScript e arquitetura de microsserviços, atuando também com ReactJS e NextJS no front-end. desenvolvo e mantenho APIs REST e GraphQL para uma plataforma SaaS Omnichannel.
+
+Tenho experiência prática transitando entre diferentes microsserviços e contextos de negócio dentro de uma arquitetura distribuída, com filas de mensageria, integrações entre sistemas, background jobs e ambientes de produção de alta demanda.</p>
 </div>
 
 <h2>Tecnologias</h2>
